@@ -96,5 +96,5 @@ git remote remove origin # Remove an existing remote repository
 
 
 
-
+[notes on conventional commits and branch naming]: https://dev.to/varbsan/a-simplified-convention-for-naming-branches-and-commits-in-git-il4
 **This cheat sheet has been created by Blessing Baloyi with the help of ZebraGPT**
